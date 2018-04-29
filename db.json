@@ -1,3 +1,52 @@
 {
-    "datax": []
+    "data": [
+        {
+            "id_user": "8",
+            "nama": "Irvan Tazrian",
+            "username": "itazrian",
+            "jabatan": "Kepala inspektur tambang",
+            "bagian": "Tambang/Mining",
+            "nama_pt": "Adidaya Tangguh",
+            "level": "2",
+            "user_add": "0",
+            "user_add_name": null,
+            "id_group": "21",
+            "nama_group": "awss",
+            "joker": "0",
+            "id": "52"
+        },
+        {
+            "id_user": "22",
+            "nama": "topan s g",
+            "username": "topan",
+            "jabatan": "Bagian keselamatan pertambangan",
+            "bagian": "Tambang/Mining",
+            "nama_pt": null,
+            "level": "3",
+            "user_add": "8",
+            "user_add_name": "Irvan Tazrian",
+            "id_group": "21",
+            "nama_group": "awss",
+            "joker": "0",
+            "id": "65"
+        },
+        {
+            "id_user": "19",
+            "nama": "putu kambium prasaba",
+            "username": "putu",
+            "jabatan": "Pengawas operasional",
+            "bagian": "Tambang/Mining",
+            "nama_pt": null,
+            "level": "4",
+            "user_add": "22",
+            "user_add_name": "topan s g",
+            "id_group": "21",
+            "nama_group": "awss",
+            "joker": "0",
+            "id": "66"
+        }
+    ],
+    "status_code": 1,
+    "message": 3,
+    "max_level_user": "4"
 }
