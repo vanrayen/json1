@@ -1,52 +1,53 @@
 {
-    "data": [
-        {
-            "id_user": "8",
-            "nama": "Irvan Tazrian",
-            "username": "itazrian",
-            "jabatan": "Kepala inspektur tambang",
-            "bagian": "Tambang/Mining",
-            "nama_pt": "Adidaya Tangguh",
-            "level": "2",
-            "user_add": "0",
-            "user_add_name": null,
-            "id_group": "21",
-            "nama_group": "awss",
-            "joker": "0",
-            "id": "52"
+    "summary":[
+        { 
+            "id": 1, 
+            "nama": "Irvan T",
+            "alamat" : "jalan kuningan timur raya",
+            "company" : "PT. Asiatek Indonesia",
+            "job_title" : "IT Staff",
+            "phone_number" : "081024042018",
+            "email" : "irvan27@yahoo.co.id"
         },
-        {
-            "id_user": "22",
-            "nama": "topan s g",
-            "username": "topan",
-            "jabatan": "Bagian keselamatan pertambangan",
-            "bagian": "Tambang/Mining",
-            "nama_pt": null,
-            "level": "3",
-            "user_add": "8",
-            "user_add_name": "Irvan Tazrian",
-            "id_group": "21",
-            "nama_group": "awss",
-            "joker": "0",
-            "id": "65"
-        },
-        {
-            "id_user": "19",
-            "nama": "putu kambium prasaba",
-            "username": "putu",
-            "jabatan": "Pengawas operasional",
-            "bagian": "Tambang/Mining",
-            "nama_pt": null,
-            "level": "4",
-            "user_add": "22",
-            "user_add_name": "topan s g",
-            "id_group": "21",
-            "nama_group": "awss",
-            "joker": "0",
-            "id": "66"
+        { 
+            "id": 2, 
+            "nama": "Rio Ferdinand",
+            "alamat" : "jalan Mampang Prapatan",
+            "company" : "PT. Asiatek Indonesia",
+            "job_title" : "IT Staff",
+            "phone_number" : "081024042018",
+            "email" : "irvan27@yahoo.co.id"
         }
     ],
-    "status_code": 1,
-    "message": 3,
-    "max_level_user": "4"
+    "summary_detail": [
+        { "id": 1, 
+            "menginap": "Ya", 
+            "status": "Menikah",
+            "punya_anak" : "Ya",
+            "agama" : "Islam",
+            "alamat_sekarang" : "Kedoya Jakarta Barat",
+            "provinsi" : "DKI Jakarta",
+            "takut_anjing" : "tidak",
+            "pengalaman_kerja_luar_negeri" : "tidak",
+            "bahasa_inggris" : "cukup",
+            "keterampilan" : "Memasak,Mencuci Manual,Menyeterika,Memasak Telor,Merawat Anak Kecil,Mengasuh Bayi,Mendongeng,Mengajari Anak Baca Tulis",
+            "Umur" : "37 tahun",
+            "pengalaman" : "4 tahun",
+            "pendidikan_terakhir" : "SMA",
+            "tinggi" :	"153 cm",
+            "berat" :	"51 kg",
+            "ditambahkan_tanggal" :	"23-04-2018",
+            "suku_asal" : "Jawa",
+            "surat_polisi" : "Perlu Surat Polisi",
+            "surat_dokter" :	"Perlu Surat Dokter",
+            "referensi" : "Tanpa Referensi"
+        },
+        { "id": 2, 
+            "menginap": "Ya", 
+            "status": "Menikah",
+            "punya_anak" : "Ya",
+            "agama" : "Islam",
+            "alamat_sekarang" : "Mampang"
+        }
+      ]
 }
